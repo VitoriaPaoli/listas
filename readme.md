@@ -1,4 +1,4 @@
 ### projeto lista de tarefa feito em JavaScript
 
 
-<img src="../assets/images/ima.jpg" alt="lista-de-tarefa">
+<img src="./assets/images/ima1.jpg" alt="lista-de-tarefa">
